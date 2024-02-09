@@ -34,6 +34,6 @@
 
 ------
 
-Credit:Batuhan Muzafferoglu](https://github.com/batumzff)
+Credit:Batuhan Muzafferoglu](https://www.linkedin.com/in/batuhan-muzafferoglu/)
 
 Last Edited on: 24/01/2024
