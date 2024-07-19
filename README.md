@@ -3,6 +3,8 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
+- For myself, Dynamic Full Stack Developer, Frontend and Backend programming languages skills, developing complex solutions, processing strong creative thinking skills, highly energetic and integrated with strong troubleshooting abilities.
+
 - 📫 How to reach me **batuhanmuzafferoglu@gmail.com**
 
 - ### Visitors Count
