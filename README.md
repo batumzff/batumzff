@@ -29,9 +29,20 @@
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
 [MernStack_Stock-App](https://stock-app-lyart.vercel.app/)| React, Node-Expres.js, MongoDB Material UI, Redux-Toolkit | 
+[NextNetflix](https://next-netflix-self.vercel.app/) |React, Next.js, React-Router-Dom, TMDB API for movies data,Firebase for register and login processes, Styling with Tailwind and CSS,React-Toastify for alert| ![NextNetflix](https://github.com/batumzff/NextNetflix/blob/main/nextNetFlix.gif)
 [Dr-Appointment-App](https://dr-appointment-app.vercel.app/)| Javascript, Css, Html, Local Storage| ![DR-Appointment-app](https://github.com/batumzff/DR-Appointment-app/blob/main/dr-appointment-app.gif)
 [products-list](https://products-list-smoky.vercel.app/)| React, Bootstrap, SASS, JS Dom| ![products-list](https://github.com/batumzff/products-list/blob/main/src/assets/product-list.gif)
 [TODO-APP](https://todo-app-woad-psi-32.vercel.app/)|HTML, CSS, Javascript, Font Awesome for icons| ![TODO-APP](https://github.com/batumzff/TODO-APP/blob/main/todo-app.gif)
+[home-furnishing](https://home-furnishing-beta.vercel.app/)| HTML, CSS| ![home-furnishing](https://github.com/batumzff/home-furnishing/blob/main/images/home.gif)
+[my_wallet](https://my-wallet-theta-ochre.vercel.app/)|HTML, CSS, Javascript |![my_wallet](https://github.com/batumzff/my_wallet/blob/main/my-wallet.gif)
+[guessNumber](https://guess-number-rose.vercel.app/) | HTML, CSS, Javascript | ![guessNumber](https://github.com/batumzff/guessNumber/blob/main/guess-number.gif)
+[Legend](https://legend-nine.vercel.app/) | HTML, CSS, Javascript | ![Legend](https://github.com/batumzff/Legend/blob/main/legend.gif)
+
+
+
+
+
+
 
 
 
