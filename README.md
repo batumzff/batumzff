@@ -28,7 +28,7 @@
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[MernStack_Stock-App](https://stock-app-lyart.vercel.app/)| React, Node-Expres.js, MongoDB Material UI, Redux-Toolkit | 
+[MernStack_Stock-App](https://stock-app-lyart.vercel.app/)| React, Node-Expres.js, MongoDB, Material UI, Redux-Toolkit, Formik, Yup, Persist| 
 [NextNetflix](https://next-netflix-self.vercel.app/) |React, Next.js, React-Router-Dom, TMDB API for movies data,Firebase for register and login processes, Styling with Tailwind and CSS,React-Toastify for alert| ![NextNetflix](https://github.com/batumzff/NextNetflix/blob/main/nextNetFlix.gif)
 [Batuhan-Store](https://batuhan-store.vercel.app/)|React, Axios for API requests, React-Router-Dom, DummyJSON API for products data, Icons from React Icons, Styling with Tailwind and CSS, Sweetalert2 for alert|![Batuhan-Store](https://github.com/batumzff/Batuhan-Store/blob/main/BatuhanStore.gif)
 [Dr-Appointment-App](https://dr-appointment-app.vercel.app/)| Javascript, Css, Html, Local Storage| ![DR-Appointment-app](https://github.com/batumzff/DR-Appointment-app/blob/main/dr-appointment-app.gif)
