@@ -3,7 +3,7 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
-- I am a dynamic Full Stack Developer with expertise in both frontend and backend programming languages, adept at developing complex solutions. I bring strong creative thinking, high energy, and excellent troubleshooting abilities to every project, ensuring efficient and innovative problem-solving.
+- I am a dynamic Full Stack Developer with expertise in both frontend and backend programmin languages, adept at developing complex solutions. I bring strong creative thinking, high energy, and excellent troubleshooting abilities to every project, ensuring efficient and innovative problem-solving.
 
 - 📫 How to reach me **batuhanmuzafferoglu@gmail.com**
 
