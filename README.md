@@ -30,6 +30,7 @@
 :-------------------------|-------------------------|-------------------------
 [MernStackBlogApp ](https://mern-stack-blog-app-omega.vercel.app/) | React, Node-Expres.js, MongoDB, SASS, Redux-Toolkit, React Hook Form, Yup, Redux Persist, DOMPurify, Cypress |
 [MernStack_Stock-App](https://stockapp-kuwa.onrender.com)| React, Node-Expres.js, MongoDB, Material UI, Redux-Toolkit, Formik, Yup, Persist| ![MernStack_Stock-App](https://github.com/batumzff/MernStack_Stock-App/blob/main/MernStack_Stock-App.gif)
+[chat-app-firebase](https://chat-app-firebase-omega.vercel.app/) | React, Vite, Firebase, Zustand, ESLint | ![chat-app-firebase](https://github.com/batumzff/chat-app-firebase/blob/main/BatuChatApp.gif)
 [NextNetflix](https://next-netflix-self.vercel.app/) |React, Next.js, React-Router-Dom, TMDB API for movies data,Firebase for register and login processes, Styling with Tailwind and CSS,React-Toastify for alert| ![NextNetflix](https://github.com/batumzff/NextNetflix/blob/main/nextNetFlix.gif)
 [Batuhan-Store](https://batuhan-store.vercel.app/)|React, Axios for API requests, React-Router-Dom, DummyJSON API for products data, Icons from React Icons, Styling with Tailwind and CSS, Sweetalert2 for alert|![Batuhan-Store](https://github.com/batumzff/Batuhan-Store/blob/main/BatuhanStore.gif)
 [Dr-Appointment-App](https://dr-appointment-app.vercel.app/)| React, Bootstrap, Local Storage| ![DR-Appointment-app](https://github.com/batumzff/DR-Appointment-app/blob/main/dr-appointment-app.gif)
