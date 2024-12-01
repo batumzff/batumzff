@@ -8,7 +8,7 @@
 - 📫 How to reach me **batuhanmuzafferoglu@gmail.com**
 
 - ### Visitors Count
-<img align="left" src = "https://profile-counter.glitch.me/selman-s/count.svg" alt ="Loading">
+<img align="left" src = "https://profile-counter.glitch.me/batumzff/count.svg" alt ="Loading">
 <br>
 <hr>
 
