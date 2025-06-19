@@ -28,6 +28,7 @@
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
+[Work Management System](https://frontend-ecru-phi-68.vercel.app/dashboard)| React, Next.js, Node.js, Express.js, MongoDB, Tailwind CSS, Redux Toolkit, React Hook Form, Axios, JWT, Formik, Yup, ESLint, Nodemon| ![Work Management System](https://github.com/batumzff/frontend/blob/main/Screen%20Recording%202025-05-26%20at%2015.57.04.gif)
 [MernStackBlogApp ](https://mern-stack-blog-app-omega.vercel.app/) | React, Node-Expres.js, MongoDB, SASS, Redux-Toolkit, React Hook Form, Yup, Redux Persist, DOMPurify, Cypress |
 [MernStack_Stock-App](https://stockapp-kuwa.onrender.com)| React, Node-Expres.js, MongoDB, Material UI, Redux-Toolkit, Formik, Yup, Persist| ![MernStack_Stock-App](https://github.com/batumzff/MernStack_Stock-App/blob/main/MernStack_Stock-App.gif)
 [chat-app-firebase](https://chat-app-firebase-omega.vercel.app/) | React, Vite, Firebase, Zustand, ESLint | ![chat-app-firebase](https://github.com/batumzff/chat-app-firebase/blob/main/BatuChatApp.gif)
